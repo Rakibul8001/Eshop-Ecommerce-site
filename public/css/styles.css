@@ -1,0 +1,41 @@
+/* Over-ride css */
+.bg-light{
+    background-color: #9ec5ec!important;
+}
+.card{
+    margin-top: 20px !important;
+}
+/*
+Navbar css
+*/
+.mr-auto, .mx-auto {
+    margin-top: 5px;
+    margin-bottom: -13px;
+}
+/*
+End-Navbar css
+*/
+.child-rows {
+    padding-left: 20px;
+    border-left: 1px solid #c1bdbd;
+    background: #fff;
+}
+.child-rows a.list-group-item{
+    border-left: 0px !important;
+}
+.justify-content-center {
+    -ms-flex-pack: center!important;
+    justify-content: center!important;
+}
+
+.margin-top-20{
+    margin-top:20px;
+}
+.featured-img{
+    max-height: 200px;
+}
+.footer-bottom{
+    margin-top: 20px;
+    padding: 20px;
+    background: #83b6e8!important;
+}
